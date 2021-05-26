@@ -4,3 +4,4 @@ git add
 update
 
 git rm
+git status
