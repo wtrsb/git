@@ -2,3 +2,5 @@ git practice
 
 git add
 update
+
+git rm
